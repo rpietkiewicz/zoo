@@ -1,0 +1,16 @@
+E:\Code\zoo\TheZoo\TheZoo\bin\Debug\net5.0\TheZoo.exe
+E:\Code\zoo\TheZoo\TheZoo\bin\Debug\net5.0\TheZoo.deps.json
+E:\Code\zoo\TheZoo\TheZoo\bin\Debug\net5.0\TheZoo.runtimeconfig.json
+E:\Code\zoo\TheZoo\TheZoo\bin\Debug\net5.0\TheZoo.runtimeconfig.dev.json
+E:\Code\zoo\TheZoo\TheZoo\bin\Debug\net5.0\TheZoo.dll
+E:\Code\zoo\TheZoo\TheZoo\bin\Debug\net5.0\ref\TheZoo.dll
+E:\Code\zoo\TheZoo\TheZoo\bin\Debug\net5.0\TheZoo.pdb
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\TheZoo.csproj.AssemblyReference.cache
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\TheZoo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\TheZoo.AssemblyInfoInputs.cache
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\TheZoo.AssemblyInfo.cs
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\TheZoo.csproj.CoreCompileInputs.cache
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\TheZoo.dll
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\ref\TheZoo.dll
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\TheZoo.pdb
+E:\Code\zoo\TheZoo\TheZoo\obj\Debug\net5.0\TheZoo.genruntimeconfig.cache

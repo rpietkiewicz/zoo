@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uD0uGr7hteVv0JzskV/twO5s7LyJyvQ1YQkDGCHRH71YaVe/Lg5NVJ4278IfIacaoFWkezQk9U3F5b9jCQ5nJw==",
+  "dgSpecHash": "K0ehU7eUoZpbkU+HXPlLIHrMI5YTpjq4ZP6RjsdJKkzieHfZxzkSgV6gHHFeJVWOOgzFL8H2AmSjbI7U2OjpJg==",
   "success": true,
-  "projectFilePath": "E:\\Code\\TheZoo\\TheZoo\\TheZoo.csproj",
+  "projectFilePath": "E:\\Code\\zoo\\TheZoo\\TheZoo\\TheZoo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

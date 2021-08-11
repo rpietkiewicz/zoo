@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\TheZoo\\TheZoo\\TheZoo.csproj": {}
+    "E:\\Code\\zoo\\TheZoo\\TheZoo\\TheZoo.csproj": {}
   },
   "projects": {
-    "E:\\Code\\TheZoo\\TheZoo\\TheZoo.csproj": {
+    "E:\\Code\\zoo\\TheZoo\\TheZoo\\TheZoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\TheZoo\\TheZoo\\TheZoo.csproj",
+        "projectUniqueName": "E:\\Code\\zoo\\TheZoo\\TheZoo\\TheZoo.csproj",
         "projectName": "TheZoo",
-        "projectPath": "E:\\Code\\TheZoo\\TheZoo\\TheZoo.csproj",
+        "projectPath": "E:\\Code\\zoo\\TheZoo\\TheZoo\\TheZoo.csproj",
         "packagesPath": "C:\\Users\\robpi\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\TheZoo\\TheZoo\\obj\\",
+        "outputPath": "E:\\Code\\zoo\\TheZoo\\TheZoo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
